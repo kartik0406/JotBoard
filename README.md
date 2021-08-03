@@ -1,2 +1,2 @@
 # Jot Board
-A Note Keeping App like Google Keep build using Html, CSS, JavaScript and ReactJs.
+A Quick Note Keeping App like Google Keep build using Html, CSS, JavaScript and ReactJs.
