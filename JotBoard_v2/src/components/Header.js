@@ -1,6 +1,6 @@
 import React from "react";
 
-function Header() {
+function Header(){
   return (
     <header>
       <h1>JotBoard</h1>
