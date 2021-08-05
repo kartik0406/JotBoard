@@ -5,7 +5,7 @@ import Note from "./Note";
 import notes from "../notes";
 
 
-function App() {
+function App(){
   return (
     <div>
       <Header />
