@@ -1,6 +1,6 @@
 import React from "react";
 
-function Heading(){
+function Heading() {
     const date=new Date().getFullYear();
     return <footer><p>Copyright &copy; {date}</p></footer>;
 }
